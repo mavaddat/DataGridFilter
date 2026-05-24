@@ -24,7 +24,7 @@ Translation of labels and formatting of dates in the following languages:
 
  > *The translations are from google translate, if you find any errors or want to add other languages, please let me know.*
 
-The **Nuget package** is available [here](https://www.nuget.org/packages/FilterDataGrid/).
+The **Nuget package** is available [here on Nuget](https://www.nuget.org/packages/FilterDataGrid/).
 
 To understand how the filter works, you can consult the article posted on [CodeProject](https://www.codeproject.com/Articles/5292782/WPF-DataGrid-Filterable-multi-language).  
 
